@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Student Admission </string>
+    <string name="btn1">Add New Student</string>
+    <string name="btn2">View Students</string>
+    <string name="bt">Submit</string>
+    <string name="btn3">View All Data</string>
+    <string name="tv1">Add New Student</string>
+    <string name="tv2">Enter Your Name</string>
+    <string name="tv3">Enter Your Email</string>
+    <string name="et1">Your Answer</string>
+    <string name="tv4">D.O.B.</string>
+    <string name="tv5">Select Gender</string>
+    <string name="tv6">Enter 12th marks</string>
+    <string name="tv7">Enter 10th marks</string>
+    <string name="tv8">Select Branch</string>
+    <string name="tv9">Enter Mobile No.</string>
+    <string name="rb1">Male</string>
+    <string name="rb2">Female</string>
+    <string name="rb3">Other</string>
+    <string-array name="branch">
+        <item>Computer Science</item>
+        <item>Mechanical</item>
+        <item>Civil</item>
+        <item>Information Technology</item>
+        <item>Electronics</item>
+        <item>Electrical</item>
+        <item>Chemical</item>
+    </string-array>
+
+</resources>
